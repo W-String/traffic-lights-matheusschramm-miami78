@@ -14,7 +14,6 @@ import TrafficLight from './components/TrafficLight';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <Home/>
     <TrafficLight/>
   </React.StrictMode>,
 )
